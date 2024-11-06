@@ -1,0 +1,7 @@
+{
+  "name": "rpm_prueba2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
